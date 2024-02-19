@@ -41,8 +41,13 @@ For this exam, we will be utilizing [jsonplaceholder](https://jsonplaceholder.ty
 
 The test involves developing two screens:
 
-1. **User List Screen**: A display of users in a scrollable list view.
-2. **User Profile Screen**: A detailed view showing the user's profile and their posts.
+**User List Screen**: A display of users in a scrollable list view.
+
+![User List](https://github.com/again-faster/fitbox-rn-challenge/blob/fb1c174a142e426d1bfd27e61d3069aa31c4029a/User%20List.png)
+
+**User Profile Screen**: A detailed view showing the user's profile and their posts.
+
+![User Profile](https://github.com/again-faster/fitbox-rn-challenge/blob/fb1c174a142e426d1bfd27e61d3069aa31c4029a/User%20Profile.png)
 
 ### Creativity and Innovation:
 
